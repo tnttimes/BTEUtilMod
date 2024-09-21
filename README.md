@@ -8,9 +8,9 @@ Recomended using with Amecs: https://www.curseforge.com/minecraft/mc-mods/amecs
 ## Download ##
 
 [1.20.1](https://github.com/tnttimes/BTEUtilMod/releases/download/1.20.1/BTEUtilMod-2.1-1.20.1.jar)
-[1.20.2](https://github.com/tnttimes/BTEUtilMod/releases/download/1.20.1/BTEUtilMod-2.1-1.20.2.jar)
-[1.20.3](https://github.com/tnttimes/BTEUtilMod/releases/download/1.20.1/BTEUtilMod-2.1-1.20.3.jar)
-[1.20.4](https://github.com/tnttimes/BTEUtilMod/releases/download/1.20.1/BTEUtilMod-2.1-1.20.4.jar)
+[1.20.2](https://github.com/tnttimes/BTEUtilMod/releases/download/1.20.2/BTEUtilMod-2.1-1.20.2.jar)
+[1.20.3](https://github.com/tnttimes/BTEUtilMod/releases/download/1.20.3/BTEUtilMod-2.1-1.20.3.jar)
+[1.20.4](https://github.com/tnttimes/BTEUtilMod/releases/download/1.20.4/BTEUtilMod-2.1-1.20.4.jar)
 
 ## Simple Guide ##
 
