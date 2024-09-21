@@ -8,7 +8,7 @@
     "TNT_TIMES"
   ],
   "contact": {
-    "repo": "https://github.com/tnttimes/BTEUtilMod1.20.1"
+    "repo": "https://github.com/tnttimes/BTEUtilMod"
   },
   "license": "All-Rights-Reserved",
   "environment": "*",
@@ -20,9 +20,6 @@
       "tnt_times.bteutilmod.BTEUtilMod"
     ]
   },
-  "_mixins": [
-    "bteutilmod.mixins.json"
-  ],
   "depends": {
     "fabricloader": "*",
     "fabric": "*",
