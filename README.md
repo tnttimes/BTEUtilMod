@@ -1,6 +1,8 @@
 # BTE Util Mod #
 Write your most used commands and link them to binds!
-<b>!FABRIC ONLY</b>
+
+<b>!FABRIC ONLY!</b>
+
 Recomended using with Amecs: https://www.curseforge.com/minecraft/mc-mods/amecs
 
 ## Download ##
