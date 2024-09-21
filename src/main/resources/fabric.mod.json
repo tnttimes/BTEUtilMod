@@ -20,11 +20,11 @@
       "tnt_times.bteutilmod.BTEUtilMod"
     ]
   },
-  "mixins": [
+  "_mixins": [
     "bteutilmod.mixins.json"
   ],
   "depends": {
-    "fabricloader": "0.15.*",
+    "fabricloader": "*",
     "fabric": "*",
     "minecraft": "${minecraft_version}"
   },
