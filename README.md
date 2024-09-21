@@ -4,4 +4,4 @@ Write your most used commands and link them to binds!
 
 ## Download ##
 
-[1.20.1](https://github.com/tnttimes/BTEUtilMod/blob/master/mod/BTEUtilMod-2.1-1.20.1.jar)
+[1.20.1](https://github.com/tnttimes/BTEUtilMod/raw/refs/heads/master/mod/BTEUtilMod-2.1-1.20.1.jar)
